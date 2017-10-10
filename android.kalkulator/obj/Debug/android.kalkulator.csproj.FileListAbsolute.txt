@@ -1,0 +1,15 @@
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\bin\Debug\android.kalkulator.dll
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\bin\Debug\android.kalkulator.pdb
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\bin\Debug\android.kalkulator.android.kalkulator.apk
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\bin\Debug\android.kalkulator.android.kalkulator-Signed.apk
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\android.kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\android.kalkulator.dll
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\android.kalkulator.pdb
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\android\bin\android.kalkulator.android.kalkulator.apk
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\res\layout\main.xml
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\res\values\strings.xml
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\R.cs.flag
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\uploadflags.txt
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\bin\Debug\android.kalkulator.dll.mdb
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\android\assets\android.kalkulator.dll.mdb
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Debug\android.kalkulator.csprojResolveAssemblyReference.cache

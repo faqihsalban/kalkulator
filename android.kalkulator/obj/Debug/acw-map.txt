@@ -1,0 +1,4 @@
+android.kalkulator.MainActivity, android.kalkulator;md5df35438b5aa8bd01931f8c848fe5a3a0.MainActivity
+android.kalkulator.MainActivity, android.kalkulator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5df35438b5aa8bd01931f8c848fe5a3a0.MainActivity
+android.kalkulator.MainActivity;md5df35438b5aa8bd01931f8c848fe5a3a0.MainActivity
+android.kalkulator.MainActivity;md5df35438b5aa8bd01931f8c848fe5a3a0.MainActivity
