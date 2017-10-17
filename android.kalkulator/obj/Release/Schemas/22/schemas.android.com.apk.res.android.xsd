@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v22</xs:documentation>
-    <xs:documentation>10/10/2017 7:33:37 PM</xs:documentation>
+    <xs:documentation>10/17/2017 5:23:42 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -252,6 +252,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -342,6 +343,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -432,6 +434,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -811,6 +814,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1115,6 +1119,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1658,6 +1663,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1767,6 +1773,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1857,6 +1864,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1947,6 +1955,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -2409,6 +2418,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -2518,6 +2528,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -3265,6 +3276,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -5319,6 +5331,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -6293,6 +6306,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -6597,6 +6611,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -6901,6 +6916,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7245,6 +7261,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7549,6 +7566,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7853,6 +7871,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8481,6 +8500,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -10270,6 +10290,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -10691,6 +10712,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -11059,6 +11081,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -13140,6 +13163,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -14721,6 +14745,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -16183,9 +16208,27 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/zoomControls1" />
+            <xs:enumeration value="@id/button0" />
+            <xs:enumeration value="@id/button00" />
             <xs:enumeration value="@id/button1" />
-            <xs:enumeration value="@id/gridLayout1" />
-            <xs:enumeration value="@id/relativeLayout1" />
+            <xs:enumeration value="@id/button18" />
+            <xs:enumeration value="@id/button2" />
+            <xs:enumeration value="@id/button3" />
+            <xs:enumeration value="@id/button4" />
+            <xs:enumeration value="@id/button5" />
+            <xs:enumeration value="@id/button6" />
+            <xs:enumeration value="@id/button7" />
+            <xs:enumeration value="@id/button8" />
+            <xs:enumeration value="@id/button9" />
+            <xs:enumeration value="@id/buttonBagi" />
+            <xs:enumeration value="@id/buttonC" />
+            <xs:enumeration value="@id/buttonDel" />
+            <xs:enumeration value="@id/buttonKali" />
+            <xs:enumeration value="@id/buttonMin" />
+            <xs:enumeration value="@id/buttonPlus" />
+            <xs:enumeration value="@id/buttonSamadengan" />
+            <xs:enumeration value="@id/buttonTitik" />
+            <xs:enumeration value="@id/textView" />
             <xs:enumeration value="@android:id/addToDictionary" />
             <xs:enumeration value="@android:id/background" />
             <xs:enumeration value="@android:id/button1" />
@@ -17187,6 +17230,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -19562,6 +19606,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -22161,6 +22206,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -22251,6 +22297,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -22341,6 +22388,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -22782,6 +22830,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -23086,6 +23135,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -23781,6 +23831,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -24636,6 +24687,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -24972,6 +25024,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -25618,6 +25671,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -27610,6 +27664,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -27985,6 +28040,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -28596,6 +28652,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -28952,6 +29009,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -29467,6 +29525,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -33116,6 +33175,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -33420,6 +33480,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -33724,6 +33785,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -34028,6 +34090,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -37807,6 +37870,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -37970,6 +38034,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -39155,6 +39220,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -39245,6 +39311,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -40353,6 +40420,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -40657,6 +40725,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -41240,6 +41309,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@color/theme_material_background" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />

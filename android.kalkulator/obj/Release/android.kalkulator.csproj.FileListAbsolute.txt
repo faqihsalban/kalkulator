@@ -12,3 +12,5 @@ C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Release\R.cs.flag
 C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Release\uploadflags.txt
 C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\bin\Release\android.kalkulator.dll.mdb
 C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Release\android\assets\android.kalkulator.dll.mdb
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Release\android.kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\faqih\Source\Repos\kalkulator\android.kalkulator\obj\Release\res\values\theme.xml
